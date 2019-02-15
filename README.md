@@ -34,25 +34,28 @@ contain {4, 3, 2, 1}?
 
 <H2> Activity 5 Questions </H2>
 
-_Buggy1:_  
-*Constructor or Method (write method name):
-*Describe a Possible Code Error:
+_*Buggy1:*_  
+
+* Constructor or Method (write method name):
+* Describe a Possible Code Error:
 
 
 
 
-_Buggy2:_
-*Constructor or Method (write method name):
-*Describe a Possible Code Error:
+_*Buggy2:*_
+  * Constructor or Method (write method name):
+  * Describe a Possible Code Error:
 
 
 
-_Buggy3:_
-*Constructor or Method (write method name):
-*Describe a Possible Code Error:
+_*Buggy3:*_
+
+* Constructor or Method (write method name):
+* Describe a Possible Code Error:
 
 
 
-_Buggy4:_
-*Constructor or Method (write method name):
-*Describe a Possible Code Error:
+_*Buggy4:*_
+
+* Constructor or Method (write method name):
+* Describe a Possible Code Error:
