@@ -29,3 +29,30 @@ contain {4, 3, 2, 1}?
 
 
 1. How many shuffles of the perfect shuffle algorithm does it take for the deck to be as it started again (in the original order)?  Does this work for any size deck?  Does the number of shuffles needed for different sized decks change?
+
+
+
+<H2> Activity 5 Questions </H2>
+
+_Buggy1:_  
+*Constructor or Method (write method name):
+*Describe a Possible Code Error:
+
+
+
+
+_Buggy2:_
+*Constructor or Method (write method name):
+*Describe a Possible Code Error:
+
+
+
+_Buggy3:_
+*Constructor or Method (write method name):
+*Describe a Possible Code Error:
+
+
+
+_Buggy4:_
+*Constructor or Method (write method name):
+*Describe a Possible Code Error:
