@@ -39,23 +39,31 @@ _*Buggy1:*_
 * Constructor or Method (write method name):
 * Describe a Possible Code Error:
 
-
-
+Method - isEmpty()
+It is possible that the method swaps boolean values for the detection (method returns 
+False for an empty deck instead of true and vice versa)
 
 _*Buggy2:*_
   * Constructor or Method (write method name):
   * Describe a Possible Code Error:
 
-
+Method - size()
+Programmer most likely failed to create a proper sized deck.
 
 _*Buggy3:*_
 
 * Constructor or Method (write method name):
 * Describe a Possible Code Error:
 
+Method-matches()
+Matches most likely has reversed boolean expressions. for matches, with the error, if the 
+Cards don't match, it is true; this contradicts !allMatch
 
 
 _*Buggy4:*_
 
 * Constructor or Method (write method name):
 * Describe a Possible Code Error:
+
+Method - deal()
+There is something wrong with the deal method. It probably does not deal the card in the correct array index or deals a reference variable deck in the method without altering the user's deck
